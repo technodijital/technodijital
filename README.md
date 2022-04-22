@@ -16,7 +16,7 @@
   
 <div align="center">
   <h1>
-    Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Ömer Faruk , KodveBlog
+    Hi <img height="30" width="30" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> We are TechnoDijital
     <p align="center">
       <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
     </p>
@@ -24,24 +24,24 @@
 </div>
 <br>
 
-👩‍💻 I'm currently learning "Cyber Security" with Python but I'm also interested in Web Programming
+  👩‍💻 Biz <b>Siber Güvenlik , Seo Optimizasyonu ve Web Programlama</b>ilgilenen bir ekibiz
 <br>
-☕ My actual aim is to make projects about Cyber Security and working with Web Programming.
+  ☕ Kurumlarınız için <b>Hızlı ve Garanti</b> çözümler üretiriz.
 <br>
-💬 ask me about anything, i am happy to help;
+💬 Bizimle email hesabımızdan iletişime geçebilirsiniz.
 <br>
-💼 any freelance work? do reach, [email](mailto:technodijital@gmail.com) :)
+💼 Email -> , [email](mailto:technodijital@gmail.com) :)
 
 <div align="center">
   <br>
-  <a href="https://github.com/kodveblog">
+  <a href="https://github.com/technodijital">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=technodijital&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=technodijital&layout=compact&langs_count=7&theme=merko"/>
 </div>
   
   
 <p align="center">
-  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technodijital&theme=merko" alt="Ömer Faruk" />
+  <img width="600em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=technodijital&theme=merko" alt="technodijital" />
 </p>
   
   ##
